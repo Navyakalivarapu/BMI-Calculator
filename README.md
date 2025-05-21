@@ -16,11 +16,11 @@ This is a simple web application that helps users calculate their Body Mass Inde
 
 ## How to Use
 
-1.Enter your **Name**
+1. Enter your **Name**
 2. Enter your **height** (in centimeters)
 3. Enter your **weight** (in kilograms)
 4. Click on the **"Calculate"** button to see your BMI
-5. Click **"Reset"** for to clear and try again.
+5. Click on the **"Reset"** button for to clear fields and try again.
 
 ## Live Website
 
