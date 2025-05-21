@@ -1,4 +1,4 @@
-##Body Mass Index (BMI) Checker
+# Body Mass Index (BMI) Checker
 
 This is a simple web application that helps users calculate their Body Mass Index  based on their height and weight.
 
